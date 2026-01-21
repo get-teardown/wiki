@@ -22,6 +22,8 @@ Quick Navigation
    getting-started/teardown-installer-guide
    getting-started/teardown-latest-version-updates
    getting-started/windows-11-10-setup
+   devices/teardown-download-laptop
+   devices/teardown-free-download-pc-windows-10
 
 .. toctree::
    :maxdepth: 2

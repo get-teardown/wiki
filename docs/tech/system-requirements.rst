@@ -29,4 +29,4 @@ Recommended Specifications
 * **GPU:** NVIDIA GeForce RTX 30-series (for best ray tracing performance)
 
 .. warning::
-   Integrated graphics cards (Intel HD/UHD/Iris) are **not supported** and will likely result in unplayable framerates or crashes.
+   Integrated graphics cards (Intel HD/UHD/Iris) are **not supported** and will likely result in unplayable framerates or crashes. See our :doc:`/devices/teardown-download-laptop` guide for more details on portable performance.
