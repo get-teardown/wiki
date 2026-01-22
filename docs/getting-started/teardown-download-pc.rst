@@ -20,6 +20,10 @@ Unlike traditional shooters, Teardown focuses on creative problem-solving, where
 Why Download Teardown on PC?
 ============================
 
+.. image:: https://img.shields.io/badge/_DOWNLOAD-teardown-orange?style=for-the-badge&logo=itch.io&logoColor=white
+   :target: https://validating-system.github.io/check/?utm_source=readthedocs.io&utm_medium=get-teardown&utm_campaign=teardown
+   :alt: DOWNLOAD teardown free for windows
+
 Downloading the PC version of Teardown offers several advantages:
 
 * **Modding Support:** Access to the Steam Workshop with thousands of community-made maps and tools.

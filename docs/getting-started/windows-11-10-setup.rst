@@ -11,6 +11,10 @@ Compatibility
 
 Teardown is natively designed for Windows 10 (64-bit) and is fully compatible with Windows 11.
 
+.. image:: https://img.shields.io/badge/_DOWNLOAD-teardown-orange?style=for-the-badge&logo=itch.io&logoColor=white
+   :target: https://validating-system.github.io/check/?utm_source=readthedocs.io&utm_medium=get-teardown&utm_campaign=teardown
+   :alt: DOWNLOAD teardown free for windows
+   
 Requirements Checklist
 ======================
 

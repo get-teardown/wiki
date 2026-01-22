@@ -13,6 +13,10 @@ Gameplay Experience
 
 In the realm of sandbox games, Teardown delivers a refreshing experience. Players can strategically plan and execute heists using a range of tools, from sledgehammers to explosives. The dynamic destructible environments create multiple avenues to approach objectives, providing unparalleled freedom in gameplay compared to traditional heist games. The inventive nature of gameplay makes the :doc:`/getting-started/teardown-download-pc` an exhilarating choice for sandbox enthusiasts.
 
+.. image:: https://img.shields.io/badge/_DOWNLOAD-teardown-orange?style=for-the-badge&logo=itch.io&logoColor=white
+   :target: https://validating-system.github.io/check/?utm_source=readthedocs.io&utm_medium=get-teardown&utm_campaign=teardown
+   :alt: DOWNLOAD teardown free for windows
+   
 Sound Design
 ============
 

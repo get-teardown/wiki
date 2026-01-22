@@ -17,6 +17,10 @@ To experience everything the voxel destruction world has to offer, users should 
 
 The "Full Version" typically refers to the **Ultimate Edition**, which grants access to the base game, the Season Pass, and all premium tools.
 
+.. image:: https://img.shields.io/badge/_DOWNLOAD-teardown-orange?style=for-the-badge&logo=itch.io&logoColor=white
+   :target: https://validating-system.github.io/check/?utm_source=readthedocs.io&utm_medium=get-teardown&utm_campaign=teardown
+   :alt: DOWNLOAD teardown free for windows
+   
 What’s Included in the Latest Build?
 ====================================
 

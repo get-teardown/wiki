@@ -20,6 +20,11 @@ Teardown is a voxel-based game that heavily utilizes the CPU and GPU for physics
 * **Power:** Always play with your laptop plugged into a power source to ensure the GPU operates at maximum performance.
 * **Battery:** Playing on battery will significantly reduce performance and playtime.
 
+
+.. image:: https://img.shields.io/badge/_DOWNLOAD-teardown-orange?style=for-the-badge&logo=itch.io&logoColor=white
+   :target: https://validating-system.github.io/check/?utm_source=readthedocs.io&utm_medium=get-teardown&utm_campaign=teardown
+   :alt: DOWNLOAD teardown free for windows
+
 System Requirements for Laptops
 ===============================
 
